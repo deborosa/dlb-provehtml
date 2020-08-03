@@ -1,0 +1,138 @@
+.DB {
+
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+
+}
+
+.presentazione {
+
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.experience {
+
+    font-family: "Courier New", Courier, monospace;
+    text-align: left;
+
+}
+
+.education {
+
+    font-family: "Courier New", Courier, monospace;
+    text-align: left;
+
+}
+
+.certifications {
+
+    font-family: "Courier New", Courier, monospace;
+    text-align: left;
+
+}
+
+.contact {
+
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+.languages {
+
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+.technical {
+
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+.references {
+
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+#colonna1 {
+
+    max-width: 400px;
+    /* padding-left: 150px; */
+
+}
+
+#separatore {
+
+    min-width: 50px;
+
+}
+
+.contact-text {
+
+    padding-left: 5px;
+
+}
+
+p {
+
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+    color: blue;
+
+}
+
+a:visited {
+
+    color: blue;
+
+}
+
+#immagine {
+
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+
+}
+
+#uni {
+
+    padding-top: 20px
+}
+
+.tabella1 {
+
+    font-family: "Courier New", Courier, monospace;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    background-color: #DC7633;
+
+}
+
+.tabella2 {
+
+    font-family: "Courier New", Courier, monospace;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
